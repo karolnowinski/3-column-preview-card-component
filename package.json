@@ -1,0 +1,19 @@
+{
+  "name": "3-column-preview-card-component",
+  "version": "1.0.0",
+  "description": "![Design preview for the 3-column preview card component coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "build:scss": "node-sass --output-style compressed -o dist/styles src/styles",
+    "watch:scss": "onchange -i -v \"./src/styles/*.scss\" -- npm run build:scss",
+    "start": "browser-sync -s -f \"./index.html, dist/**/*\""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.26.14",
+    "node-sass": "^5.0.0",
+    "onchange": "^7.1.0"
+  }
+}
