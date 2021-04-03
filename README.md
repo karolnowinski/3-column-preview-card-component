@@ -21,7 +21,7 @@ Users should be able to:
 ![](./screenshot.png) 
 
 ## Links
-Live Site URL: [karolnowinski/3-column-preview-card-component](https://karolnowinski/3-column-preview-card-component)
+Live Site URL: [karolnowinski.github.io/3-column-preview-card-component](https://karolnowinski.github.io/3-column-preview-card-component)
 
 ## Built with
 
